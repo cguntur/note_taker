@@ -1,6 +1,17 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "id": "e010",
+        "title": "My New Note",
+        "text": "Note text"
+    },
+    {
+        "id": "5271",
+        "title": "Monday",
+        "text": "Soccer"
+    },
+    {
+        "id": "bd44",
+        "title": "Sunday",
+        "text": "Bowling"
     }
 ]
