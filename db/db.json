@@ -1,17 +1,17 @@
 [
     {
-        "id": "e010",
-        "title": "My New Note",
-        "text": "Note text"
+        "id": "6d2d24db-fb95-4afb-8dae-c6993fc9cd18",
+        "title": "Friday",
+        "text": "Movie"
     },
     {
-        "id": "5271",
+        "id": "da10918c-8b89-4524-b82c-16978d70becc",
         "title": "Monday",
-        "text": "Soccer"
+        "text": "Staff Meeting"
     },
     {
-        "id": "bd44",
+        "id": "ac04c4a3-cfc2-499b-bd40-9d4f5ddb1e32",
         "title": "Sunday",
-        "text": "Bowling"
+        "text": "Brunch with friends!"
     }
 ]
